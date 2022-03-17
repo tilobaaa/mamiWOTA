@@ -1,0 +1,273 @@
+body{
+  margin: 56px;
+  border-color: #808080CC;
+}
+
+h1{
+  font-weight:300;
+  font-size: 72px;
+}
+a{
+  color: black;
+  font-weight: 500;
+}
+
+hr{
+  color: black;
+  margin:  0;
+  padding: 0;
+  border-top: solid;
+}
+
+hr.line1{
+  width: 1328px;
+
+}
+
+hr.line2{
+  width:570px;
+  margin: 46px 0;
+}
+
+.mamiwota{
+  font-size: 40px;
+}
+.navbar-brand{
+  margin-right: 134px;
+}
+.nav-search{
+  width: 420px;
+}
+
+.nav-item{
+  padding: 0 32px;
+}
+.nav-button{
+  width: 209px;
+
+}
+
+
+
+.intro{
+  margin-top: 3.25rem;
+  /* display: flex;
+  justify-content: space-between; */
+
+}
+
+.extra-header-text{
+  padding: 24px 0;
+  font-size: 24px;
+  width: 552px;
+}
+
+.community-button{
+  width: 303px;
+  height: 76px;
+}
+
+.fst-card{
+  width: 520px;
+  height: 629px;
+  background-color: #E1FF65;
+}
+
+.fst-card-body{
+  margin-left: 46px;
+}
+
+.card-img-top{
+  height: auto;
+  /* width: auto; */
+}
+
+.details{
+  color: #808080CC;
+}
+.mamiwota1{
+  padding-left: 108px;
+
+
+}
+.goddess1-btn{
+  display: flex;
+  justify-content: space-between;
+}
+
+.download-button {
+  height: 76px;
+  width: 202px;
+  font-size: 20px;
+}
+
+
+
+.goddess-text{
+  color: #808080CC;
+}
+.inline-goddess1{
+  display: inline-block;
+  padding-right: 8px;
+}
+
+
+/* third part*/
+.latest-artwork-part{
+
+}
+.pricing{
+  margin-top: 100px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.lst-art{
+  width: 238px;
+  margin-right: 640px;
+  font-size: 32px;
+}
+
+.lst-art-2{
+  width: 344px;
+  margin-right: 530px;
+  font-size: 32px;
+}
+
+.view-all-btn{
+  display:inline-block;
+  border:solid;
+  margin-right:170px;
+  height: 48px;
+  font-size: 20px;
+}
+
+.arrow-btn-1{
+  margin: 0 10px;
+  width: 48px;
+  height: 48px;
+
+}
+
+.arrow-btn-2{
+  margin: 0 0 0 10px;
+  width: 48px;
+  height: 48px;
+}
+
+
+.card-3{
+  margin-top: 40px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.art-card{
+  width: 416px;
+
+}
+
+.smallest-box{
+  width: 32px;
+  height: auto;
+  display: inline-block;
+  margin-right: 16px;
+}
+
+.card-3-txt{
+  display: inline-block;
+  color: #808080CC;
+}
+
+.card-3-hr{
+  width: 100%;
+  margin: 16px 0 22px 0;
+}
+
+.bottom-txt{
+    color: #808080CC;
+}
+.other-two-card-body{
+  padding-bottom: 0.5rem;
+}
+.black-bg{
+  background-color: black;
+  padding: 1.375rem 1rem ;
+}
+
+.bottom-txt-ash{
+  float: right;
+}
+
+p.bottom-txt-white{
+  color: white;
+}
+
+.bottom-txt-white-float{
+  float: right;
+}
+
+
+/* CTA */
+.Call-to-Action{
+  margin-top: 144px;
+  text-align: center;
+
+
+
+}
+
+.CTA-txt{
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.subscribe-form{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+.final-part{
+
+}
+.final-list{
+  list-style-type: none;
+  font-size: 18px;
+  padding-bottom: 24px;
+
+}
+
+.different-brd{
+  color: Black;
+}
+
+
+
+.same-brd{
+  color: #808080CC;
+  text-decoration: none;
+}
+
+.mami-conclusion{
+  display: inline-block;
+  font-size: 40px;
+
+}
+
+.superscript{
+  display: inline-block;
+  vertical-align: super;
+  font-size: 15px;
+}
+
+.symbols{
+  margin-top: 62px;
+}
+
+.sym-spacing{
+  margin-right: 35px;
+  color: #808080CC;
+}
