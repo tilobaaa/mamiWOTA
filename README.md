@@ -1,2 +1,2 @@
 # mamiWOTA
-I made this using HTML, CSS and Bootstrap.Designed by Folarin Olugbade and coded by me.
+I made this desktop website (non-responsive) using HTML, CSS and Bootstrap.Designed by Folarin Olugbade and developed by me.
